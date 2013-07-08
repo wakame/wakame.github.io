@@ -10,9 +10,13 @@ group: navigation
 
 Because it's awesome!
 
+## I am not too well versed in virtualization. Am I welcome to join a meeting?
+
+Yes, you are. WUG is our way of reaching out to the community and these meetings are very informal. If you are interested, we would be very happy to have you.
+
 ## Why don't you have any documentation?
 
-We are only a small company with limited resources. We have some customers that pay us to work on Wakame-vdc and that's how we pay our bills. This also means that we have to prioritize the features they want and unfortunately, none of them has shown interest in a full scale body of English documentation so far. :( We are slowly adding documents to our wiki on github but it's very limited at this time. If you could help us out by writing some documentation for Wakame-vdc, we would be extremely grateful.
+We are only a small company with limited resources. We have some customers that pay us to work on Wakame-vdc and that's how we pay our bills. This also means that we have to prioritize the features they want and unfortunately, none of them has shown interest in a full scale body of English documentation so far. :( We are slowly adding documents to [our wiki on github](https://github.com/axsh/wakame-vdc/wiki) but it's very limited at this time. If you could help us out by writing some documentation for Wakame-vdc, we would be extremely grateful.
 
 ## But how can I try Wakame-vdc without documentation?
 
