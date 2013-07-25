@@ -183,6 +183,19 @@ You can ssh into the instance using the *key pair* that you created. They listen
 
     ssh -i /path/to/ssh/key.pem root@10.0.2.100
 
+It's possible that you will get this kind of message.
+
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    @         WARNING: UNPROTECTED PRIVATE KEY FILE!          @
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    Permissions 0744 for '/home/geek/ssh_demo.pem' are too open.
+    It is recommended that your private key files are NOT accessible by others.
+    This private key will be ignored.
+    bad permissions: ignore key: /home/geek/ssh_demo.pem
+
+That means everybody can read your private key and that's not very private now is it? Change your key's permissions with the following command.
+
+    chmod 600 /path/to/shh/key.pem
 
 ## Troubleshooting
 
