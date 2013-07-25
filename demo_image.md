@@ -179,9 +179,9 @@ You will now be able to see the *instance* when you click on *Instances* in the 
 
 If the instance state turns to *terminated*, that is likely due to a known bug that we have been encountering only in the Wakame-vdc demo image and haven't had time to fix yet. Just try again. It's likely that your instance will work the second time around.
 
-You can ssh into the instance using the *key pair* that you created. They listen on port 22 and you can log in with username *centos*. If your own computer is running Linux, this would be a typical command to log into an instance.
+You can ssh into the instance using the *key pair* that you created. They listen on port 22 and you can log in with username *root*. If your own computer is running Linux, this would be a typical command to log into an instance.
 
-    ssh -i /path/to/ssh/key.pem centos@10.0.2.100
+    ssh -i /path/to/ssh/key.pem root@10.0.2.100
 
 
 ## Troubleshooting
