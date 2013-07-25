@@ -8,7 +8,7 @@ group: navigation
 
 This is a [VirtualBox](https://www.virtualbox.org/) image that contains [Centos](http://www.centos.org/) 6.4 with Wakame-vdc pre-installed. This is intended for people to get a first introduction to Wakame-vdc with a minimal amount of configuring required.
 
-[Download the Wakame-vdc demo image.](http://dlc.wakame.axsh.jp/demo/1box/vmdk/1box-lxc.netfilter.x86_64.vmdk.20130709.zip)
+[Download the Wakame-vdc demo image.](http://dlc.wakame.axsh.jp/demo/1box/vmdk/1box-openvz.netfilter.x86_64.vmdk.20130709.zip)
 
 ## Requirements
 
