@@ -10,6 +10,9 @@ This is a [VirtualBox](https://www.virtualbox.org/) image that contains [Centos]
 
 [Download the Wakame-vdc demo image.](http://dlc.wakame.axsh.jp/demo/1box/vmdk/1box-openvz.netfilter.x86_64.vmdk.20130709.zip)
 
+Unzipped mp5 sum: a140f43d8e964ccbb94c386e945460ee
+Zipped md5 sum: 5681abe64d678c5ae46195f18690fa2a
+
 ## Requirements
 
 Any computer with an x86_64 processor capable of running VirtualBox.
