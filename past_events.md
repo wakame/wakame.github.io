@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Past"
+title: "Past Events"
 description: ""
 ---
 {% include JB/setup %}
