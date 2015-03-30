@@ -10,9 +10,9 @@ This is a [VirtualBox](https://www.virtualbox.org/) image that contains [Centos]
 
 [Download the Wakame-vdc demo image.](http://dlc.wakame.axsh.jp/demo/1box/vmdk/1box-openvz.netfilter.x86_64.vmdk.20150212150344gitef418eb.zip)
 
-Unzipped mp5 sum: 3405147405b9b93fc35d804f771ed206
+Unzipped mp5 sum: 7bc7587a0d60629c87895173b093b3bd
 
-Zipped md5 sum: a9b84845f9ee5a8ae0542b811753f8e3
+Zipped md5 sum: 41d04365f36cd034ae1f9605e07c189f
 
 ## Requirements
 
